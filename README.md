@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nebil</h1>
-<h3 align="center"> Computer Engineer</h3>
+<h3 align="center">BSc in Computer Engineering</h3>
 <h3 align="center"> AI/ML Enthusist</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
