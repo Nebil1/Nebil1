@@ -1,10 +1,6 @@
-Perfect! Here's your **refined GitHub profile README** that clearly positions you as an aspiring **Azure-focused professional**, with a strong foundation in **cybersecurity**, **cloud**, and **AI**—tailored to attract **cloud engineer** or **cloud security** roles:
-
----
-
 ## 👋 Hi, I’m Nebil Keno
 
-☁️ **Aspiring Cloud & Security Engineer** specializing in **Microsoft Azure** technologies.
+**Aspiring Cloud & Security Engineer** specializing in **Microsoft Azure** technologies.
 
 With a background in **Electrical and Computer Engineering**, hands-on experience in **cybersecurity**, and certifications across Azure AI, data, and fundamentals, I’m building a career at the intersection of **cloud infrastructure**, **security**, and **automation**. My goal is to design and secure scalable systems that empower organizations and communities.
 
