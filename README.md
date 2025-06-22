@@ -11,7 +11,7 @@ With a background in **Electrical and Computer Engineering**, hands-on experienc
 * **Cloud Engineering** using Azure App Services, Functions, and CI/CD
 * **Cloud Security** including identity, compliance, and threat detection
 * **Applied AI** with Azure Cognitive Services and secure automation
-* **Continuous Learning** through , Udacity, and Microsoft certifications
+* **Continuous Learning** through freeCodeCamp, Udacity, and Microsoft learn
 
 ---
 
