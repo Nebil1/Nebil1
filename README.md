@@ -2,7 +2,7 @@
 
 **Aspiring Cloud & Security Engineer** specializing in **Microsoft Azure** technologies.
 
-With a background in **Electrical and Computer Engineering**, hands-on experience in **cybersecurity**, and certifications across Azure AI, data, and fundamentals, I’m building a career at the intersection of **cloud infrastructure**, **security**, and **automation**. My goal is to design and secure scalable systems that empower organizations and communities.
+With a background in **Computer Engineering**, hands-on experience in **cybersecurity**, and certifications across Azure AI, data, and fundamentals, I’m building a career at the intersection of **cloud infrastructure**, **security**, and **automation**. My goal is to design and secure scalable systems that empower organizations and communities.
 
 ---
 
