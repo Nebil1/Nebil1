@@ -27,8 +27,8 @@ With a background in **Electrical and Computer Engineering**, hands-on experienc
 
 ## 🏅 Certifications
 
-* **Azure AI Fundamentals (AI-900)**
 * **Azure Fundamentals (AZ-900)**
+* **Azure AI Fundamentals (AI-900)**
 * **Azure Data Fundamentals (DP-900)**
 
 ---
