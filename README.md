@@ -6,11 +6,11 @@
   <img src="https://img.shields.io/badge/Certifications-AI‑900%20AZ‑900%20DP‑900-yellowgreen"/>
 </p>
 
-<h1 align="center">👋 Hi, I’m Nebil Keno</h1>
+<h1 align="center">👋 Hi, I’m Nebil Yisehak</h1>
 
 <p align="center">
 Aspiring **Cloud & Security Engineer** specializing in <b>Microsoft Azure</b>.  
-I hold a **BSc in Electrical & Computer Engineering**, have hands-on experience in **cybersecurity**, and proudly earned <b>AI‑900, AZ‑900, and DP‑900</b> certifications.
+I hold a **BSc in Computer Engineering**, have hands-on experience in **cybersecurity**, and proudly earned <b>AI‑900, AZ‑900, and DP‑900</b> certifications.
 </p>
 
 ---
@@ -51,22 +51,12 @@ University project using DSP techniques and Python for automated voice command r
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nebil%20Keno-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-✉️ Email: your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nebil%20Yisehak-blue?logo=linkedin)](https://www.linkedin.com/in/nebilyisehak/)  
+✉️ Email: nebilyk@gmail.com
 
 ---
 
 ## 🎓 Professional Development
 
-- 🎯 **Gebeya Microsoft Talent Cloud** – Azure fundamentals, cloud-native dev, DevOps & security  
+- 🎯 **Gebeya Microsoft Talent Cloud** – Azure, cloud-native dev, DevOps & security  
 - 🏅 Certifications: **Azure AI (AI‑900)** · **Azure Fundamentals (AZ‑900)** · **Azure Data (DP‑900)**  
-
----
-
-📌 *Target roles:* **Azure Cloud Engineer**, **Cloud Security Analyst**, or **DevOps Engineer**.  
-With an Azure-focused profile and live projects, I’m ready to help organizations build and secure infrastructure in the cloud.
-
----
-
-> ⭐ Fun fact: modeling my README after GitHub stars like Forrest Knight helped boost my portfolio visibility *[1]* :contentReference[oaicite:1]{index=1}  
-
