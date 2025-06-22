@@ -17,7 +17,7 @@ With a background in **Electrical and Computer Engineering**, hands-on experienc
 
 ## 🛠️ Technologies & Tools
 
-**Languages:** Python, C#, JavaScript, Bash
+**Languages:** Python, C#, Java, JavaScript
 **Cloud & DevOps:** Azure, Azure CLI, Azure Functions, GitHub Actions
 **Security:** Wireshark, Burp Suite, PowerShell, Identity & Access Mgmt
 **Data & AI:** Azure Cognitive Services, Power BI, Scikit-learn, Streamlit
