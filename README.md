@@ -1,16 +1,16 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Illustration-Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-Cloud%20&%20Security%20Engineer-blue"/>
-  <img src="https://img.shields.io/badge/Degree-BSc%20Elect.%20&%20Comp.%20Eng.-f0db4f"/>
+  <img src="https://img.shields.io/badge/Degree-BSc%20Comp.%20Eng.-f0db4f"/>
   <img src="https://img.shields.io/badge/Certifications-AI‑900%20AZ‑900%20DP‑900-yellowgreen"/>
 </p>
 
 <h1 align="center">👋 Hi, I’m Nebil Yisehak</h1>
 
 <p align="center">
-Aspiring **Cloud & Security Engineer** specializing in <b>Microsoft Azure</b>.  
-I hold a **BSc in Computer Engineering**, have hands-on experience in **cybersecurity**, and proudly earned <b>AI‑900, AZ‑900, and DP‑900</b> certifications.
+I'm an aspiring <b>Cloud & Security Engineer</b> with a focus on <b>Microsoft Azure</b>.
+I have a <b>BSc in Computer Engineering</b> and practical experience working on <b>Application penetration testing (AppSec)<b> and building apps with <b>.NET</b>.
 </p>
 
 ---
@@ -40,6 +40,14 @@ University project using DSP techniques and Python for automated voice command r
 
 ---
 
+## 🎓 Professional Development
+
+- 🏅 Certifications: **Azure AI (AI‑900)** · **Azure Fundamentals (AZ‑900)** · **Azure Data (DP‑900)**  
+- 🎯 **Gebeya Microsoft Talent Cloud** – Azure, cloud-native dev, DevOps & security  
+-  **Continuous Learning** through freeCodeCamp, Udacity, and Microsoft learn
+
+---
+
 ## 📈 GitHub Stats
 
 <!-- GitHub Readme Stats: show streaks, commits, languages -->
@@ -54,9 +62,3 @@ University project using DSP techniques and Python for automated voice command r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nebil%20Yisehak-blue?logo=linkedin)](https://www.linkedin.com/in/nebilyisehak/)  
 ✉️ Email: nebilyk@gmail.com
 
----
-
-## 🎓 Professional Development
-
-- 🎯 **Gebeya Microsoft Talent Cloud** – Azure, cloud-native dev, DevOps & security  
-- 🏅 Certifications: **Azure AI (AI‑900)** · **Azure Fundamentals (AZ‑900)** · **Azure Data (DP‑900)**  
