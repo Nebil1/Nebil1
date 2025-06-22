@@ -42,9 +42,14 @@ University project using DSP techniques and Python for automated voice command r
 
 ## 🎓 Professional Development
 
-- 🏅 Certifications: **Azure AI (AI‑900)** · **Azure Fundamentals (AZ‑900)** · **Azure Data (DP‑900)**  
-- 🎯 **Gebeya Microsoft Talent Cloud** – Azure, cloud-native dev, DevOps & security  
--  **Continuous Learning** through freeCodeCamp, Udacity, and Microsoft learn
+🏅 Certifications:
+Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900) · Azure Data Fundamentals (DP-900)
+
+🚀 Gebeya Microsoft Talent Cloud:
+Completed advanced training in Azure infrastructure, cloud-native development, DevOps pipelines, and cloud security best practices.
+
+📚 Ongoing Learning:
+Actively expanding skills through platforms like freeCodeCamp, Udacity, and Microsoft Learn.
 
 ---
 
