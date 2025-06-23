@@ -30,7 +30,7 @@ I have a <b>BSc in Computer Engineering</b> and practical experience working on 
 Secure full-stack online store showcasing authentication, product management, and ready for **Azure App Service deployment**.
 
 ### 🔹 [cloud-developer](https://github.com/Nebil1/cloud-developer)  
-Azure-native microservices and automated CI/CD pipelines based on Udacity’s Cloud Dev Nanodegree.
+Microservices and automated CI/CD pipelines based on Udacity’s Cloud Dev Nanodegree.
 
 ### 🔹 `azure-sentiment-analyzer` *(in progress)*  
 💡 **AI-driven threat intel tool** using Azure Text Analytics + Streamlit for sentiment detection in logs or social media—built with security in mind.
