@@ -65,5 +65,4 @@ Actively expanding skills through platforms like freeCodeCamp, Udacity, and Micr
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nebil%20Yisehak-blue?logo=linkedin)](https://www.linkedin.com/in/nebilyisehak/)  
-✉️ Email: nebilyk@gmail.com
 
