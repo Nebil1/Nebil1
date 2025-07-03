@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Cloud%20&%20Security%20Engineer-blue"/>
+  <img src="https://img.shields.io/badge/Role-Cyber%20Security%20Engineer-blue"/>
   <img src="https://img.shields.io/badge/Degree-BSc%20Comp.%20Eng.-f0db4f"/>
   <img src="https://img.shields.io/badge/Certifications-AI‑900%20AZ‑900%20DP‑900-yellowgreen"/>
 </p>
@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I’m Nebil Yisehak</h1>
 
 <p align="center">
-I'm an aspiring <b>Cloud & Security Engineer</b> with a focus on <b>Microsoft Azure</b>.
+I'm an aspiring <b>Cybersecurity and ML Engineer</b>.
 I have a <b>BSc in Computer Engineering</b> and practical experience working on <b>Application penetration testing (AppSec)<b> and building apps with <b>.NET</b>.
 </p>
 
