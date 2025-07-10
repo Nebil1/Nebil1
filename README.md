@@ -1,7 +1,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Cyber%20Security%20Engineer-blue"/>
   <img src="https://img.shields.io/badge/Degree-BSc%20Comp.%20Eng.-f0db4f"/>
   <img src="https://img.shields.io/badge/Certifications-AI‑900%20AZ‑900%20DP‑900-yellowgreen"/>
 </p>
