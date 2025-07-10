@@ -33,7 +33,7 @@ Secure full-stack online store showcasing authentication, product management, an
 Microservices and automated CI/CD pipelines based on Udacity’s Cloud Dev Nanodegree.
 
 ### 🔹 `azure-sentiment-analyzer` *(in progress)*  
-💡 **AI-driven threat intel tool** using Azure Text Analytics + Streamlit for sentiment detection in logs or social media—built with security in mind.
+**AI-driven threat intel tool** using Azure Text Analytics + Streamlit for sentiment detection in logs or social media—built with security in mind.
 
 ### 🔹 [Digital‑signal‑processing‑Voice‑recognition](https://github.com/Nebil1/Digital-signal-processing-Voice-recognition)  
 University project using DSP techniques and Python for automated voice command recognition.
