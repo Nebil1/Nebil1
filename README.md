@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I’m Nebil Yisehak</h1>
 
 <p align="center">
-I'm an aspiring <b>Cybersecurity and ML Engineer</b>.
+I'm an aspiring <b>Computer Engineer</b>.
 I have a <b>BSc in Computer Engineering</b> and practical experience working on <b>Application penetration testing (AppSec)<b> and building apps with <b>.NET</b>.
 </p>
 
