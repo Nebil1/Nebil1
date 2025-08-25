@@ -59,6 +59,10 @@ Actively expanding skills through platforms like freeCodeCamp, Udacity, and Micr
   <img src="https://github-readme-stats.vercel.app/api?username=Nebil1&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nebil1&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
 ---
 
 ## 📫 Let's Connect
