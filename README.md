@@ -1,71 +1,51 @@
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20ASP.NET%20Core-5a67d8" />
+  <img src="https://img.shields.io/badge/DB-SQL%20Server%20%7C%20PostgreSQL-0ea5e9" />
   <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Degree-BSc%20Comp.%20Eng.-f0db4f"/>
-  <img src="https://img.shields.io/badge/Certifications-AI‑900%20AZ‑900%20DP‑900-yellowgreen"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions-22c55e" />
+  <img src="https://img.shields.io/badge/Certs-AZ900%20%7C%20AI900%20%7C%20DP900-84cc16" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Nebil Yisehak</h1>
-
 <p align="center">
-I'm an aspiring <b>Computer Engineer</b>.
-I have a <b>BSc in Computer Engineering</b> and practical experience working on <b>Application penetration testing (AppSec)<b> and building apps with <b>.NET</b>.
+  <b>Software Engineer (Backend & Web Security)</b> — I build secure, scalable web applications and APIs with
+  <b>Python / FastAPI</b>, <b>ASP.NET Core</b>, <b>SQL Server</b>, <b>Azure</b>, and <b>Docker</b>.
 </p>
 
 ---
 
-## 🎯 What I’m Building
-
-- Secure, scalable systems on **Azure** (Function Apps, App Services, VMs)  
-- **Cloud Security** via Identity, Threat Detection & Sentinel workflows  
-- **AI-Enhanced Security Tools** using Azure Cognitive Services  
-- DevOps-driven cloud engineering with full CI/CD pipelines
+## 🎯 What I do
+- Design & ship **REST APIs** (auth, validation, versioning, OpenAPI docs)
+- Model data & tune queries in **SQL Server/PostgreSQL**
+- Build CI/CD with **GitHub Actions** and containerize services with **Docker**
+- Apply **security by default**: OAuth2/JWT, RBAC, rate limiting, logging
 
 ---
 
 ## 🚀 Featured Projects
+- **[E-Commerce (ASP.NET Core MVC)](https://github.com/Nebil1/E-Commerce)**  
+  Full-stack shop: authentication, product/catalog admin, cart/checkout, EF Core, SQL Server. Ready for Azure App Service.
 
-### 🔹 [E-Commerce (ASP.NET)](https://github.com/Nebil1/E-Commerce)  
-Secure full-stack online store showcasing authentication, product management, and ready for **Azure App Service deployment**.
+- **[Plastic Pollution Classifier](https://github.com/Nebil1/plastic-pollution-classifier)**  
+  Containerized CNN for classifying plastic types (HDPE/LDPE/PET/PP). Part of the **Frontier Tech Leaders – AI/ML** programme.
 
-### 🔹 [cloud-developer](https://github.com/Nebil1/cloud-developer)  
-Microservices and automated CI/CD pipelines based on Udacity’s Cloud Dev Nanodegree.
+- **Project Tracking Tool (Ethiopian Airlines)**  
+  .NET 6 + SQL Server + React. Contributed backend APIs and optimized queries used by internal teams.
 
-### 🔹 `azure-sentiment-analyzer` *(in progress)*  
-**AI-driven threat intel tool** using Azure Text Analytics + Streamlit for sentiment detection in logs or social media—built with security in mind.
-
-### 🔹 [Digital‑signal‑processing‑Voice‑recognition](https://github.com/Nebil1/Digital-signal-processing-Voice-recognition)  
-University project using DSP techniques and Python for automated voice command recognition.
-
----
-
-## 🎓 Professional Development
-
-🏅 Certifications:
-Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900) · Azure Data Fundamentals (DP-900)
-
-🚀 Gebeya Microsoft Talent Cloud:
-Completed advanced training in Azure infrastructure, cloud-native development, DevOps pipelines, and cloud security best practices.
-
-📚 Ongoing Learning:
-Actively expanding skills through platforms like freeCodeCamp, Udacity, and Microsoft Learn.
+- **[Digital Signal Processing – Voice Recognition](https://github.com/Nebil1/Digital-signal-processing-Voice-recognition)**  
+  Python assistant (SpeechRecognition, PyAudio, pyttsx3) with command handling and Wikipedia queries.
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- GitHub Readme Stats: show streaks, commits, languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nebil1&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nebil1&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
+## 🧰 Tech
+`Python` · `FastAPI` · `ASP.NET Core` · `C#` · `SQL Server` · `PostgreSQL` · `Docker` · `GitHub Actions` · `Azure` · `OAuth2/JWT` · `PyTest`
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Certifications
+AZ-900 · AI-900 · DP-900
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nebil%20Yisehak-blue?logo=linkedin)](https://www.linkedin.com/in/nebilyisehak/)  
+---
 
+## 📫 Find me
+**Portfolio:** https://nebilkeno.me · **LinkedIn:** https://www.linkedin.com/in/nebilyisehak/
