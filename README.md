@@ -16,7 +16,7 @@
 
 ## 🎯 What I do
 - Design & ship **REST APIs** (auth, validation, versioning, OpenAPI docs)
-- Model data & tune queries in **SQL Server/PostgreSQL**
+- Model data & tune queries in **SQL Server**
 - Build CI/CD with **GitHub Actions** and containerize services with **Docker**
 - Apply **security by default**: OAuth2/JWT, RBAC, rate limiting, logging
 
