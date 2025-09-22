@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I’m Nebil Yisehak</h1>
 <p align="center">
   <b>Software Engineer (Backend & Web Security)</b> — I build secure, scalable web applications and APIs with
-  <b>Python / FastAPI</b>, <b>ASP.NET Core</b>, <b>SQL Server</b>, <b>Azure</b>, and <b>Docker</b>.
+  <b>Python / FastAPI</b>, <b>ASP.NET Core</b>, <b>SQL Server</b>, <b>Azure, AWS</b>, and <b>Docker</b>.
 </p>
 
 ---
