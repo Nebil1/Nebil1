@@ -38,7 +38,7 @@
 ---
 
 ## 🧰 Tech
-`Python` · `FastAPI` · `ASP.NET Core` · `C#` · `SQL Server` · `MySQL` · `MongoDB` · `Docker` · `GitHub Actions` · `Azure` · `OAuth2/JWT` · `PyTest`
+`Python` · `FastAPI` · `ASP.NET` · `C#` · `SQL Server` · `MySQL` · `MongoDB` · `Docker` · `GitHub Actions` · `Azure` · `OAuth2/JWT` · `PyTest`
 
 ---
 
