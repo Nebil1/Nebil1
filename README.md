@@ -48,4 +48,4 @@ AZ-900 · AI-900 · DP-900
 ---
 
 ## 📫 Find me
-**Portfolio:** https://nebilkeno.me · **LinkedIn:** https://www.linkedin.com/in/nebilyisehak/
+**Portfolio:** https://nebilkeno.me · 
