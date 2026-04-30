@@ -8,7 +8,7 @@
 
 <h1 align="center">👋 Hi, I’m Nebil</h1>
 
-## 🚀 Featured Projects
+## Featured Projects
 - **[E-Commerce (ASP.NET Core MVC)](https://github.com/Nebil1/E-Commerce)**  
   Full-stack shop: authentication, product/catalog admin, cart/checkout, EF Core, SQL Server. Ready for Azure App Service.
 
@@ -23,12 +23,12 @@
 
 ---
 
-## 🧰 Tech
+## Tech
 `Python` · `FastAPI` · `ASP.NET` · `C#` · `SQL Server` · `MySQL` · `MongoDB` · `Docker` · `GitHub Actions` · `Azure` · `OAuth2/JWT` · `PyTest`
 
 ---
 
-## 🎓 Certifications
+## Certifications
 AZ-900 · AI-900 · DP-900
 
 
