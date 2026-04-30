@@ -15,9 +15,6 @@
 - **[Plastic Pollution Classifier](https://github.com/Nebil1/plastic-pollution-classifier)**  
   Containerized CNN for classifying plastic types (HDPE/LDPE/PET/PP). Part of the **Frontier Tech Leaders – AI/ML** programme.
 
-- **Project Tracking Tool (Ethiopian Airlines)**  
-  .NET 6 + SQL Server + React. Contributed backend APIs and optimized queries used by internal teams.
-
 - **[Digital Signal Processing – Voice Recognition](https://github.com/Nebil1/Digital-signal-processing-Voice-recognition)**  
   Python assistant (SpeechRecognition, PyAudio, pyttsx3) with command handling and Wikipedia queries.
 
