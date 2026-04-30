@@ -6,20 +6,7 @@
   <img src="https://img.shields.io/badge/Certs-AZ900%20%7C%20AI900%20%7C%20DP900-84cc16" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Nebil Yisehak</h1>
-<p align="center">
-  <b>Software Engineer (Backend & Web Security)</b> — I build secure, scalable web applications and APIs with
-  <b>Python / FastAPI</b>, <b>ASP.NET Core</b>, <b>SQL Server</b>, <b>Azure</b>, and <b>Docker</b>.
-</p>
-
----
-
-## 🎯 What I do
-- Design & ship **REST APIs** (auth, validation, versioning, OpenAPI docs)
-- Model data & tune queries in **SQL Server/MySQL**
-- Build CI/CD with **GitHub Actions** and containerize services with **Docker**
-- Apply **security by default**: OAuth2/JWT, RBAC, rate limiting, logging
-
+<h1 align="center">👋 Hi, I’m Nebil</h1>
 ---
 
 ## 🚀 Featured Projects
