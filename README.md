@@ -7,7 +7,6 @@
 </p>
 
 <h1 align="center">👋 Hi, I’m Nebil</h1>
----
 
 ## 🚀 Featured Projects
 - **[E-Commerce (ASP.NET Core MVC)](https://github.com/Nebil1/E-Commerce)**  
