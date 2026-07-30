@@ -3,7 +3,7 @@
 ![Automation](https://img.shields.io/badge/Automation-Python%20%7C%20Ansible%20%7C%20Terraform-4B8BBE)
 ![Certs](https://img.shields.io/badge/Certs-Cisco%20NetSec%20%7C%20Fortinet%20NSE3-84CC16)
 
-# 👋 Hi, I'm Nebil — Network & Cloud Engineer
+# 👋 Hi, I'm Nebil - Network & Cloud Engineer
 
 ICT Engineer building and automating Cisco networks and Azure cloud infrastructure.
 
