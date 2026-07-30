@@ -1,45 +1,40 @@
-![Networking](https://img.shields.io/badge/Networking-Cisco%20%7C%20Meraki%20%7C%20VLANs%20%7C%20TCP%2FIP-1BA0D7?logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Cisco%20%7C%20Meraki%20%7C%20VLANs%20%7C%20VPN-1BA0D7?logo=cisco&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20Entra%20ID%20%7C%20M365-0078D4?logo=microsoft-azure&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Python%20%7C%20PowerShell%20%7C%20Ansible%20%7C%20Terraform-4B8BBE)
-![Security](https://img.shields.io/badge/Security-Firewalls%20%7C%20VPN%20%7C%20Wireshark-EE0000)
-![Certs](https://img.shields.io/badge/Certs-Cisco%20NetSec%20%7C%20Fortinet%20NSE3%20%7C%20AZ900-84CC16)
+![Automation](https://img.shields.io/badge/Automation-Python%20%7C%20Ansible%20%7C%20Terraform-4B8BBE)
+![Certs](https://img.shields.io/badge/Certs-Cisco%20NetSec%20%7C%20Fortinet%20NSE3-84CC16)
 
 # 👋 Hi, I'm Nebil — Network & Cloud Engineer
 
-ICT Engineer focused on **network infrastructure, cloud networking, and network automation**.
-I've deployed telecom networks across 50+ sites, supported Cisco Meraki for a global org
-(170+ offices), and I build automation that takes the manual work out of network operations.
+ICT Engineer building and automating Cisco networks and Azure cloud infrastructure.
 
-📍 Copenhagen, Denmark · 🌐 Cisco Routing & Switching · ☁️ Azure Networking · 🐍 NetDevOps
+📍 Copenhagen, Denmark
 
 ---
 
-## 🔧 What I Work With
+### 🔧 What I Work With
 
-**Networking:** Cisco Routing & Switching · Cisco Meraki · VLANs · TCP/IP · DNS · DHCP · VPN · Firewalls · Wireless · LAN/WAN Troubleshooting · Site Surveys
-**Cloud:** Microsoft Azure · Entra ID · Microsoft 365 · Azure Virtual Network / NSG / VPN Gateway
-**Automation & IaC:** Python (Netmiko / Nornir) · PowerShell · Ansible · Terraform
-**Analysis & Security:** Wireshark · Firewall support · Network security assessment
+|  |  |
+| --- | --- |
+| **Networking** | Cisco Routing & Switching · Meraki · VLANs · TCP/IP · VPN · Firewalls · Wireless |
+| **Cloud** | Azure · Entra ID · Microsoft 365 · VNet / NSG / VPN Gateway |
+| **Automation** | Python (Netmiko / Nornir) · PowerShell · Ansible · Terraform |
+| **Analysis** | Wireshark · packet analysis · network security assessment |
 
 ---
 
-## 📌 Featured Project
+### 📌 Featured Project
 
-- **[SD-WAN Platform](https://github.com/Nebil1/sdwan-platform)** — A FastAPI dashboard and
-  troubleshooting assistant for Cisco SD-WAN environments: device inventory, health views, and a
-  guided troubleshooting page. Built to explore vManage-style operations and network visibility.
+**[SD-WAN Platform](https://github.com/Nebil1/sdwan-platform)** — FastAPI dashboard and
+troubleshooting assistant for Cisco SD-WAN: device inventory, health views, and guided
+troubleshooting.
 
-## 🚧 Currently Building
+**🚧 Building next:** Network Automation Toolkit (Netmiko config backup + VLAN audit) ·
+Azure Hub-and-Spoke in Terraform
 
-- **Network Automation Toolkit** — Python (Netmiko / Nornir) to back up Cisco configs, audit
-  VLANs, and parse `show` command output across devices.
-- **Ansible Network Config** — Playbooks for switch/router config (VLANs, OSPF, ACLs) using
-  Jinja2 templates and an inventory.
-  
 ---
 
-## 🎓 Certifications
+### 🎓 Certifications
 
-**Cisco: Network Security** · **Fortinet: NSE 3 Network Security Associate** ·
-Microsoft Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) ·
-Azure Data Fundamentals (DP-900) · APIsec: API Security Fundamentals
+**Cisco: Network Security** · **Fortinet: NSE 3** · Azure AZ-900 · AI-900 · DP-900 · APIsec
+
+📫 nebilkeno@gmail.com
