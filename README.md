@@ -36,5 +36,3 @@ Azure Hub-and-Spoke in Terraform
 ### 🎓 Certifications
 
 **Cisco: Network Security** · **Fortinet: NSE 3** · Azure AZ-900 · AI-900 · DP-900 · APIsec
-
-📫 nebilkeno@gmail.com
