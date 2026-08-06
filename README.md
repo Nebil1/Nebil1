@@ -11,7 +11,7 @@ ICT Engineer building and automating networks and cloud infrastructure.
 
 ---
 
-### 🔧 What I Work With
+### What I Work With
 
 |  |  |
 | --- | --- |
@@ -22,17 +22,17 @@ ICT Engineer building and automating networks and cloud infrastructure.
 
 ---
 
-### 📌 Featured Project
+### Featured Project
 
 **[SD-WAN Platform](https://github.com/Nebil1/sdwan-platform)** — FastAPI dashboard and
 troubleshooting assistant for Cisco SD-WAN: device inventory, health views, and guided
 troubleshooting.
 
-**🚧 Building next:** Network Automation Toolkit (Netmiko config backup + VLAN audit) ·
+** Building next:** Network Automation Toolkit (Netmiko config backup + VLAN audit) ·
 Azure Hub-and-Spoke in Terraform
 
 ---
 
-### 🎓 Certifications
+### Certifications
 
 **Cisco: Network Security** · **Fortinet: NSE 3** · Azure AZ-900 · AI-900 · DP-900 · APIsec
