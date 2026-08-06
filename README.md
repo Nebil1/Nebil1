@@ -7,8 +7,6 @@
 
 ICT Engineer building and automating networks and cloud infrastructure.
 
-📍 Copenhagen, Denmark
-
 ---
 
 ### What I Work With
