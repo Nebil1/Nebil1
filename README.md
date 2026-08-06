@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Nebil - Network & Cloud Engineer
 
-ICT Engineer building and automating Cisco networks and Azure cloud infrastructure.
+ICT Engineer building and automating networks and cloud infrastructure.
 
 📍 Copenhagen, Denmark
 
