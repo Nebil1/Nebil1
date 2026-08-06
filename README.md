@@ -28,7 +28,7 @@ ICT Engineer building and automating networks and cloud infrastructure.
 troubleshooting assistant for Cisco SD-WAN: device inventory, health views, and guided
 troubleshooting.
 
-** Building next:** Network Automation Toolkit (Netmiko config backup + VLAN audit) ·
+**Building next:** Network Automation Toolkit (Netmiko config backup + VLAN audit) ·
 Azure Hub-and-Spoke in Terraform
 
 ---
